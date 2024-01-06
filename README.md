@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jhamner Sifuentes</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jhamnerx&label=Profile%20views&color=0e75b6&style=flat" alt="Jhamnerx" /> </p>
 <h3 align="center">Me encanta el desarrollo Web</h3>
 
 - 🔭 Actualmente Trabajo en [Talentus Admin App](https://github.com/Jhamnerx/Talentus)
